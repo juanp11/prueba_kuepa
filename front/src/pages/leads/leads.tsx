@@ -25,7 +25,8 @@ export default function Leads (props?: LeadsProps) {
   }, [])
   return (
     <>
-      <h1 className="flex text-4xl font-title text-purple-800">!Hola!</h1>
+      <h1 className="flex text-4xl font-title text-purple-800">!Hola Prueba!</h1>
     </>
   )
 }
+
